@@ -47,7 +47,7 @@ I specialize in **mobile development**, **modern web technologies**, and **machi
   Developed the mobile app experience, implemented AR elements, integrated machine learning outputs, and built the full quiz system using clean state management.
 
 - **Vice President – System Developers Alliance (SDA)**
-- Helped lead the organization, organized developer-focused events, supported technical initiatives, and guided student developers across various activities.
+   Helped lead the organization, organized developer-focused events, supported technical initiatives, and guided student developers across various activities.
 
 ---
 
@@ -75,4 +75,5 @@ I specialize in **mobile development**, **modern web technologies**, and **machi
 ## 📫 Connect With Me
 If you'd like to collaborate or chat about tech, feel free to reach out.
 
+---
 ![Profile Views](https://komarev.com/ghpvc/?username=Tonton21-afk&style=for-the-badge)
