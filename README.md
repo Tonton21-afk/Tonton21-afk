@@ -63,7 +63,8 @@ I specialize in **mobile development**, **modern web technologies**, and **machi
 ---
 
 ## 🚀 What I'm Currently Improving
-- Deepening mobile development skills (Flutter + clean architecture)  
+- Deepening mobile development skills 
+- Learning Xcode and improving iOS development fundamentals 
 - Enhancing ML workflows and deploying models effectively  
 - Strengthening performance optimization and testing practices  
 - Learning cloud fundamentals and AWS services  
