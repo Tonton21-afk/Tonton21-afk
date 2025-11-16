@@ -46,7 +46,7 @@ I specialize in **mobile development**, **modern web technologies**, and **machi
 - **Lead Frontend Developer – LinguaAR**  
   Developed the mobile app experience, implemented AR elements, integrated machine learning outputs, and built the full quiz system using clean state management.
 
-- **Vice President – System Developers Alliance (SDA)**
+- **Vice President – System Developers Alliance (SDA)**         
    Helped lead the organization, organized developer-focused events, supported technical initiatives, and guided student developers across various activities.
 
 ---
