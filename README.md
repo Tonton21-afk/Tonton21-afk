@@ -4,7 +4,7 @@ I specialize in **mobile development**, **modern web technologies**, and **machi
 
 ---
 
-## 🧩 What I Do
+## I Do
 - **Mobile Development** using Flutter  
 - **Web Development** (Frontend & Backend)  
 - **Machine Learning Integration** with TensorFlow  
@@ -13,7 +13,7 @@ I specialize in **mobile development**, **modern web technologies**, and **machi
 
 ---
 
-## 🛠 Tech Stack I Use
+## Tech Stack I Use
 
 ### **Mobile**
 <p align="left">
@@ -42,7 +42,7 @@ I specialize in **mobile development**, **modern web technologies**, and **machi
 
 ---
 
-## 🧑‍💼 Roles
+## Roles
 - **Lead Frontend Developer – LinguaAR**  
   Developed the mobile app experience, implemented AR elements, integrated machine learning outputs, and built the full quiz system using clean state management.
 
@@ -51,7 +51,7 @@ I specialize in **mobile development**, **modern web technologies**, and **machi
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Tonton21-afk&show_icons=true&theme=transparent)
 
@@ -61,7 +61,7 @@ I specialize in **mobile development**, **modern web technologies**, and **machi
 
 ---
 
-## 🚀 What I'm Currently Improving
+## What I'm Currently Improving
 - Deepening mobile development skills 
 - Learning Xcode and improving iOS development fundamentals 
 - Enhancing ML workflows and deploying models effectively  
@@ -72,7 +72,7 @@ I specialize in **mobile development**, **modern web technologies**, and **machi
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 If you'd like to collaborate or chat about tech, feel free to reach out.
 
 ---
