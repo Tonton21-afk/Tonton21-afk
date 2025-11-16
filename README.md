@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Tonton21-afk&style=for-the-badge)
 # Hi, My name is Anthony 👋  
 I'm a software developer who enjoys building intuitive, scalable, and meaningful digital experiences.  
 I specialize in **mobile development**, **modern web technologies**, and **machine learning integration** — crafting projects that blend usability and innovation.
@@ -75,3 +74,5 @@ I specialize in **mobile development**, **modern web technologies**, and **machi
 
 ## 📫 Connect With Me
 If you'd like to collaborate or chat about tech, feel free to reach out.
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tonton21-afk&style=for-the-badge)
