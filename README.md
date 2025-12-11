@@ -51,16 +51,6 @@ I specialize in **mobile development**, **modern web technologies**, and **machi
 
 ---
 
-##  GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Tonton21-afk&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonton21-afk&layout=compact&theme=transparent)
-
-![Streak](https://streak-stats.demolab.com/?user=Tonton21-afk&theme=transparent)
-
----
-
 ## What I'm Currently Improving
 - Deepening mobile development skills 
 - Learning Xcode and improving iOS development fundamentals 
